@@ -18,7 +18,7 @@ This project is a practical exercise based on a challenge from Frontend Mentor. 
 
 ## Demo
 
-You can view the live project on GitHub Pages [here](https://your_username.github.io/responsive-notification-panel).
+You can view the live project on GitHub Pages [here](https://noeliaariza.github.io/notifications-panel/).
 
 ## Screenshots
 
